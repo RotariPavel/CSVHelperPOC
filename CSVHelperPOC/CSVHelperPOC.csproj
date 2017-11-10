@@ -45,11 +45,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TestObject.cs" />
-    <Compile Include="MapperClass.cs" />
+    <Compile Include="Mapping\ExtParamsMap.cs" />
+    <Compile Include="ListTypeConvertor.cs" />
+    <Compile Include="Mapping\MapperClass1.cs" />
+    <Compile Include="Mapping\MapperClass2.cs" />
+    <Compile Include="Dto\TestObject.cs" />
+    <Compile Include="Mapping\MapperClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TestObject2.cs" />
+    <Compile Include="Dto\TestObject2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

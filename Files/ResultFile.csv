@@ -1,0 +1,4 @@
+Id,UserIdentifier,AnotherProprety,UniqueIdentifier,Amount,OneMoreAtribute,Status,Result
+IND-1,TR0101,Cash,Test2,100,lemur,status1,result1
+IND-2,TR0102,Cash,Test3,10000,tigre,status1,result1
+IND-3,TR0103,Cash,Test4,20,lion,status1,result1
